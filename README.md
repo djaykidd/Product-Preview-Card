@@ -10,7 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
@@ -40,29 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
-
-### What I learned
-
-One of the tasks that I now feel more comfortable with is the @media inquiries. 
-
-```css
-@media only screen and (max-width: 376px)
-```
-This lesson helped me make sense of how to optimize the screen for appropriate devices.
-
-```css
-@media only screen and (max-width: 376px){
-    .card {
-        min-width: 343px;
-        height: 625px;
-        display: block;
-        margin-top: 27px;
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-bottom: 100px;
-        transform: translateY(2%);
-    }
-```
+- GitHub
 
 ## Author
 
