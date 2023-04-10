@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://djaykidd.github.io/Product-Preview-Card/)
 
 ## My process
 
